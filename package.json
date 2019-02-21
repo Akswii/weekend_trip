@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Akswii/weekend_trip#readme",
   "dependencies": {
-    "gh-pages-deploy": "^0.5.1"
+    "gh-pages": "^2.0.1"
   }
 }
