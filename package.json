@@ -1,0 +1,19 @@
+{
+  "name": "weekend_trip",
+  "version": "1.0.0",
+  "description": "weekend trip overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akswii/weekend_trip.git"
+  },
+  "author": "Aksel Wiig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akswii/weekend_trip/issues"
+  },
+  "homepage": "https://github.com/Akswii/weekend_trip#readme"
+}
