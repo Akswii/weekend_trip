@@ -4,7 +4,7 @@
   "description": "weekend trip overview",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages-deploy"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Akswii/weekend_trip/issues"
   },
-  "homepage": "https://github.com/Akswii/weekend_trip#readme"
+  "homepage": "https://github.com/Akswii/weekend_trip#readme",
+  "dependencies": {
+    "gh-pages-deploy": "^0.5.1"
+  }
 }
